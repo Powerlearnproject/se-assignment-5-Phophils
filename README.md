@@ -41,5 +41,7 @@ Answer the following questions based on your understanding of the installation a
 - Your answers should be well-structured, concise, and to the point.
 - Provide screenshots or step-by-step instructions where applicable.
 - Cite any references or sources you use in your answers.
-- Submit your completed assignment by 1st July 
+- Submit your completed assignment by 1st July
+
+https://docs.google.com/document/d/1arAybhauams7haNCQbZXy-ogMwqEpuYbChIIezGgk5E/edit
 
